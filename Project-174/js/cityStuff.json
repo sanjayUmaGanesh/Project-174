@@ -1,0 +1,44 @@
+{
+    "0": {
+        "barcode_value":2,
+        "model_name":"car",
+        "model_url":"https://raw.githubusercontent.com/sanjayUmaGanesh/ar-barcode-project-assets/main/Car/scene.gltf",
+        "scale":{
+            "x":0.5,
+            "y":0.5,
+            "z":0.5
+        },
+        "position":{
+            "x":0,
+            "y":0.21,
+            "z":-0.06
+        },
+        "rotation":{
+            "x":0,
+            "y":0,
+            "z":0
+        }
+    },
+    "1": {
+        "barcode_value":3,
+        "model_name":"city",
+        "model_url":"https://raw.githubusercontent.com/sanjayUmaGanesh/ar-barcode-project-assets/main/City%20View/scene.gltf",
+        "scale":{
+            "x":0.0001,
+            "y":0.0001,
+            "z":0.0001
+        },
+        "position":{
+            "x":0,
+            "y":0,
+            "z":0
+        },
+        "rotation":{
+            "x":0,
+            "y":0,
+            "z":0
+        }
+    }
+
+}
+    
